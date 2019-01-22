@@ -12,7 +12,7 @@ npm run start
 yarn start
 ```
 
-## API
+## API
 
 Simply call the server endpoint with `imgSrc` query parameter
 
